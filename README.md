@@ -10,6 +10,7 @@
 ##### 0053. Maximum Subarray
 ##### 0069. Sqrt(x)
 ##### 0070. Climbing Stairs
+##### 0073. Set Matrix Zeroes
 ##### 0075. Sort Colors
 ##### 0121. Best Time to Buy and Sell Stock
 ##### 0127. Word Ladder
