@@ -13,6 +13,7 @@
 ##### 0075. Sort Colors
 ##### 0121. Best Time to Buy and Sell Stock
 ##### 0127. Word Ladder
+##### 0128. Longest Consecutive Sequence
 ##### 0130. Surrounded Regions
 ##### 0136. Single Number
 ##### 0169. Majority Element
