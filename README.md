@@ -5,6 +5,7 @@
 ##### 0010. Rotting Oranges
 ##### 0026. Remove Duplicates from Sorted Array
 ##### 0027. Remove Element
+##### 0031. Next Permutation
 ##### 0032. Longest Valid Parentheses
 ##### 0053. Maximum Subarray
 ##### 0069. Sqrt(x)
