@@ -7,6 +7,7 @@
 ##### 0027. Remove Element
 ##### 0031. Next Permutation
 ##### 0032. Longest Valid Parentheses
+##### 0048. Rotate Image
 ##### 0053. Maximum Subarray
 ##### 0069. Sqrt(x)
 ##### 0070. Climbing Stairs
