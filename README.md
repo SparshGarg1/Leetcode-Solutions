@@ -13,6 +13,7 @@
 ##### 0070. Climbing Stairs
 ##### 0073. Set Matrix Zeroes
 ##### 0075. Sort Colors
+##### 0118. Pascal's Triangle
 ##### 0121. Best Time to Buy and Sell Stock
 ##### 0127. Word Ladder
 ##### 0128. Longest Consecutive Sequence
