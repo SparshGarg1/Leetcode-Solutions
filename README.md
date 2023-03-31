@@ -14,6 +14,7 @@
 ##### 0070. Climbing Stairs
 ##### 0073. Set Matrix Zeroes
 ##### 0075. Sort Colors
+##### 0088. Merge Sorted Array
 ##### 0118. Pascal's Triangle
 ##### 0121. Best Time to Buy and Sell Stock
 ##### 0127. Word Ladder
