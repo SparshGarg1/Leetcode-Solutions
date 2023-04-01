@@ -36,6 +36,7 @@
 ##### 0547. Number Of Provinces
 ##### 0560. Subarray Sum Equals K
 ##### 0647. Palindromic Substrings
+##### 0704. Binary Search
 ##### 0733. Flood Fill
 ##### 0785. Is Graph Bipartite?
 ##### 0802. Find Eventual Safe States
