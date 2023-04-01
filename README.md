@@ -3,6 +3,7 @@
 ##### 0004. Median of Two Sorted Arrays
 ##### 0009. Palindrome Number
 ##### 0010. Rotting Oranges
+##### 0014. Longest Common Prefix
 ##### 0026. Remove Duplicates from Sorted Array
 ##### 0027. Remove Element
 ##### 0031. Next Permutation
