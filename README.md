@@ -46,6 +46,7 @@
 ##### 1631. Path With Minimum Effort
 ##### 1672. Richest Customer Wealth
 ##### 1752. Check if Array Is Sorted and Rotated
+##### 1903. Largest Odd Number in String
 ##### 1920. Build Array from Permutation
 ##### 1929. Concatenation of Array
 ##### 1976. Number of Ways to Arrive at Destination
