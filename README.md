@@ -54,3 +54,4 @@
 ##### 1929. Concatenation of Array
 ##### 1976. Number of Ways to Arrive at Destination
 ##### 2149. Rearrange Array Elements by Sign
+##### 2300. Successful Pairs of Spells and Potions
