@@ -28,6 +28,7 @@
 ##### 0200. Number Of Islands
 ##### 0207. Course Schedule
 ##### 0229. Majority Element II
+##### 0242. Valid Anagram
 ##### 0268. Missing Number
 ##### 0283. Move Zeroes
 ##### 0485. Max Consecutive Ones
