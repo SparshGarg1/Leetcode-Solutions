@@ -12,6 +12,7 @@
 ##### 0048. Rotate Image
 ##### 0053. Maximum Subarray
 ##### 0056. Merge Intervals
+##### 0066. Plus One
 ##### 0069. Sqrt(x)
 ##### 0070. Climbing Stairs
 ##### 0073. Set Matrix Zeroes
