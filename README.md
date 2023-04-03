@@ -8,6 +8,7 @@
 ##### 0027. Remove Element
 ##### 0031. Next Permutation
 ##### 0032. Longest Valid Parentheses
+##### 0035. Search Insert Position
 ##### 0048. Rotate Image
 ##### 0053. Maximum Subarray
 ##### 0056. Merge Intervals
