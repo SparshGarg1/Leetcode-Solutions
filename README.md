@@ -29,6 +29,7 @@
 ##### 0189. Rotate Array
 ##### 0200. Number Of Islands
 ##### 0207. Course Schedule
+##### 0217. Contains Duplicate
 ##### 0229. Majority Element II
 ##### 0242. Valid Anagram
 ##### 0268. Missing Number
