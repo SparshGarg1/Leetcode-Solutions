@@ -14,6 +14,7 @@
 ##### 0056. Merge Intervals
 ##### 0066. Plus One
 ##### 0069. Sqrt(x)
+##### 0067. Add Binary
 ##### 0070. Climbing Stairs
 ##### 0073. Set Matrix Zeroes
 ##### 0075. Sort Colors
