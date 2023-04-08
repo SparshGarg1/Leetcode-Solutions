@@ -13,6 +13,7 @@
 ##### 0048. Rotate Image
 ##### 0053. Maximum Subarray
 ##### 0056. Merge Intervals
+##### 0058. Length of Last Word
 ##### 0066. Plus One
 ##### 0069. Sqrt(x)
 ##### 0067. Add Binary
