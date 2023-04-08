@@ -37,6 +37,7 @@
 ##### 0242. Valid Anagram
 ##### 0268. Missing Number
 ##### 0283. Move Zeroes
+##### 0344. Reverse String
 ##### 0485. Max Consecutive Ones
 ##### 0509. Fibonacci Number
 ##### 0542. 01 Matrix
