@@ -6,6 +6,7 @@
 ##### 0014. Longest Common Prefix
 ##### 0026. Remove Duplicates from Sorted Array
 ##### 0027. Remove Element
+##### 0028. Find the Index of the First Occurrence in a String
 ##### 0031. Next Permutation
 ##### 0032. Longest Valid Parentheses
 ##### 0035. Search Insert Position
