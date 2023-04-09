@@ -66,3 +66,4 @@
 ##### 2149. Rearrange Array Elements by Sign
 ##### 2300. Successful Pairs of Spells and Potions
 ##### 2439. Minimize Maximum of Array
+##### 2614. Prime In Diagonal
