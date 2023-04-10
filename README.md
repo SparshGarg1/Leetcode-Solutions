@@ -23,6 +23,7 @@
 ##### 0088. Merge Sorted Array
 ##### 0118. Pascal's Triangle
 ##### 0121. Best Time to Buy and Sell Stock
+##### 0125. Valid Palindrome
 ##### 0127. Word Ladder
 ##### 0128. Longest Consecutive Sequence
 ##### 0130. Surrounded Regions
