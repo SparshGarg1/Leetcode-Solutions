@@ -11,6 +11,7 @@
 ##### 0032. Longest Valid Parentheses
 ##### 0035. Search Insert Position
 ##### 0048. Rotate Image
+##### 0050. Pow(x, n)
 ##### 0053. Maximum Subarray
 ##### 0056. Merge Intervals
 ##### 0058. Length of Last Word
