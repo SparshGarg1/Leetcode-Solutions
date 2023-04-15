@@ -69,3 +69,4 @@
 ##### 2300. Successful Pairs of Spells and Potions
 ##### 2439. Minimize Maximum of Array
 ##### 2614. Prime In Diagonal
+##### 2615.
