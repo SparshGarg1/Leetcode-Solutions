@@ -53,6 +53,7 @@
 ##### 0796. Rotate String
 ##### 0881. Boats to Save People
 ##### 0802. Find Eventual Safe States
+##### 0876. Middle of the Linked List
 ##### 0890. Find and Replace Pattern
 ##### 0922. Sort Array By Parity II
 ##### 1020. Number of Enclaves
