@@ -30,6 +30,7 @@
 ##### 0128. Longest Consecutive Sequence
 ##### 0130. Surrounded Regions
 ##### 0136. Single Number
+##### 0141. Linked List Cycle
 ##### 0151. Reverse Words in a String
 ##### 0169. Majority Element
 ##### 0189. Rotate Array
