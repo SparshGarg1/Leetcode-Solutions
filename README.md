@@ -71,6 +71,7 @@
 ##### 1920. Build Array from Permutation
 ##### 1929. Concatenation of Array
 ##### 1976. Number of Ways to Arrive at Destination
+##### 2095. Delete the Middle Node of a Linked List
 ##### 2149. Rearrange Array Elements by Sign
 ##### 2300. Successful Pairs of Spells and Potions
 ##### 2439. Minimize Maximum of Array
