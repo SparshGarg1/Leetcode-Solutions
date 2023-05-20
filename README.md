@@ -34,6 +34,7 @@
 ##### 0169. Majority Element
 ##### 0189. Rotate Array
 ##### 0200. Number Of Islands
+##### 0206. Reverse Linked List
 ##### 0207. Course Schedule
 ##### 0217. Contains Duplicate
 ##### 0229. Majority Element II
