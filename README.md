@@ -69,6 +69,7 @@
 ##### 1020. Number of Enclaves
 ##### 1137. N-th Tribonacci Number
 ##### 1254. Number of Closed Islands
+##### 1290. Convert Binary Number in a Linked List to Integer
 ##### 1470. Shuffle the Array
 ##### 1631. Path With Minimum Effort
 ##### 1672. Richest Customer Wealth
