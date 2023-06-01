@@ -43,6 +43,7 @@
 ##### 0206. Reverse Linked List
 ##### 0207. Course Schedule
 ##### 0217. Contains Duplicate
+##### 0225. Implement Stack using Queues
 ##### 0229. Majority Element II
 ##### 0234. Palindrome Linked List
 ##### 0237. Delete Node in a Linked List
