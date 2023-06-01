@@ -1,11 +1,11 @@
 # LeetCode-Solutions
 ##### 0001. Two Sum
-##### 0002.
 ##### 0004. Median of Two Sorted Arrays
 ##### 0009. Palindrome Number
 ##### 0010. Rotting Oranges
 ##### 0014. Longest Common Prefix
 ##### 0019. Remove Nth Node From End of List
+##### 0020. Valid Parentheses
 ##### 0026. Remove Duplicates from Sorted Array
 ##### 0027. Remove Element
 ##### 0028. Find the Index of the First Occurrence in a String
