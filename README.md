@@ -53,6 +53,7 @@
 ##### 0328. Odd Even Linked List
 ##### 0344. Reverse String
 ##### 0485. Max Consecutive Ones
+##### 0496. Next Greater Element I
 ##### 0509. Fibonacci Number
 ##### 0542. 01 Matrix
 ##### 0547. Number Of Provinces
