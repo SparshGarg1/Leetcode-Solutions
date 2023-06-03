@@ -12,6 +12,7 @@
 ##### 0031. Next Permutation
 ##### 0032. Longest Valid Parentheses
 ##### 0035. Search Insert Position
+##### 0042. Trapping Rain Water
 ##### 0048. Rotate Image
 ##### 0050. Pow(x, n)
 ##### 0053. Maximum Subarray
