@@ -25,6 +25,7 @@
 ##### 0073. Set Matrix Zeroes
 ##### 0075. Sort Colors
 ##### 0088. Merge Sorted Array
+##### 0094. Binary Tree Inorder Traversal
 ##### 0118. Pascal's Triangle
 ##### 0121. Best Time to Buy and Sell Stock
 ##### 0125. Valid Palindrome
