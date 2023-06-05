@@ -27,6 +27,7 @@
 ##### 0088. Merge Sorted Array
 ##### 0094. Binary Tree Inorder Traversal
 ##### 0104. Maximum Depth of Binary Tree
+##### 0110. Balanced Binary Tree
 ##### 0118. Pascal's Triangle
 ##### 0121. Best Time to Buy and Sell Stock
 ##### 0125. Valid Palindrome
