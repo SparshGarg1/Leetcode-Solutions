@@ -65,6 +65,7 @@
 ##### 0503. Next Greater Element II
 ##### 0509. Fibonacci Number
 ##### 0542. 01 Matrix
+##### 0543. Diameter of Binary Tree
 ##### 0547. Number Of Provinces
 ##### 0560. Subarray Sum Equals K
 ##### 0647. Palindromic Substrings
