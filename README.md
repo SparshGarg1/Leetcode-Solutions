@@ -23,6 +23,7 @@
 ##### 0067. Add Binary
 ##### 0070. Climbing Stairs
 ##### 0073. Set Matrix Zeroes
+##### 0074. Search a 2D Matrix
 ##### 0075. Sort Colors
 ##### 0088. Merge Sorted Array
 ##### 0094. Binary Tree Inorder Traversal
