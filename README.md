@@ -45,6 +45,7 @@
 ##### 0145. Binary Tree Postorder Traversal
 ##### 0148. Sort List
 ##### 0151. Reverse Words in a String
+##### 0152. Maximum Product Subarray
 ##### 0155. Min Stack
 ##### 0160. Intersection of Two Linked Lists
 ##### 0162. Find Peak Element
