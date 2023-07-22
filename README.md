@@ -12,6 +12,7 @@
 ##### 0028. Find the Index of the First Occurrence in a String
 ##### 0031. Next Permutation
 ##### 0032. Longest Valid Parentheses
+##### 0034. Find First and Last Position of Element in Sorted Array
 ##### 0035. Search Insert Position
 ##### 0042. Trapping Rain Water
 ##### 0048. Rotate Image
